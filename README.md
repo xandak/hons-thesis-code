@@ -1,5 +1,5 @@
 # hons-thesis-code
-Supplementary code for honours thesis
+Supplementary code for honours thesis.
 
 This repository contains supplementary code for the Honours thesis 'Realising the GKP code using periodic driving'. The files included in this repository are:
 * `Square code.ipynb` contains the code listed in Appendix I of the thesis, as well as some examples of using these functions. The functions include:
