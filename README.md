@@ -13,5 +13,5 @@ This repository contains supplementary code for the Honours thesis 'Realising th
 * `Optimised amplitudes.ipynb` contains the code used to find the optimised amplitudes for the harmonic driving function using SciPy's `optimize.minimize()` function.
 * `Numerical integration.ipynb` contains the code used to numerically integrate the 1st and 2nd order terms in the Magnus expansion, which was used to produce the plot in Appendix D.
 * `Thesis figures.ipynb` contains the code to produce all figures in the thesis using saved data from the `data` folder.
-* `miscfuncs.py` contains the miscellaneous functions `displacement_fock()`, `gkp_measure_ops()`, and `fock_to_pos` used to define the GKP stabilisers, the Pauli-bin operators and convert from the Fock to the position basis to plot wave functions, respectively. The contents of this file was written by Dr. Grimsmo and Mackenzie Shaw.
+* `miscfuncs.py` contains the miscellaneous functions `displacement_fock()`, `gkp_measure_ops()`, and `fock_to_pos` used to define the GKP stabilisers, the Pauli-bin operators and convert from the Fock to the position basis to plot wave functions, respectively. The contents of this file were written by Dr. Grimsmo and Mackenzie Shaw.
 * `pyplotsetup.py` contains code to set parameters for matplotlib figures. 
